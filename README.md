@@ -1,6 +1,6 @@
 # 55GMS
 
-Welcome to 55GMS, a website for unblocked games, apps, and proxies. Our goal is to provide a safe and enjoyable experience for users who want to access blocked content.
+Welcome to 55GMS, a website for smeg games, apps, and proxies. Our goal is to provide a safe and enjoyable experience for users who want to access blocked content.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/55gms/55gms)
 ![Commit](https://img.shields.io/github/commit-activity/w/55gms/55gms)
